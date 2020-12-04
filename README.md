@@ -2,4 +2,4 @@
 
 ## References
 
-[1]: [https://www.edx.org/course/how-to-code-simple-data](The course)
+[https://www.edx.org/course/how-to-code-simple-data](The course)
